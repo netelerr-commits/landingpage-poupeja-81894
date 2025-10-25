@@ -1,7 +1,7 @@
-﻿import TemplateSelector from "@/components/TemplateSelector";
+import Template from "@/templates/Template1 copy";
 
 const Index = () => {
-  return <TemplateSelector />;
+  return <Template />;
 };
 
 export default Index;
